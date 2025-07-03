@@ -22,8 +22,7 @@ A simple and beautifully animated HTML + CSS project that displays a styled book
 ## 🦋 Created By
 
 **Titli Purkait**  
-🌸 Aspiring Web Developer | CSS Queen | Project: SilentComm  
-💖 Made with love and some butterfly magic
+🌸 Aspiring Web Developer 
 
 ---
 
