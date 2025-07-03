@@ -4,8 +4,7 @@ A simple and beautifully animated HTML + CSS project that displays a styled book
 
 ## 💻 Live Demo
 
-🌐 [Click to View Live](https://yourusername.github.io/Book-Catalog/)  
-(*Replace this link after enabling GitHub Pages!*)
+🌐 [Click to View Live]( https://titli-purkait.github.io/animated-book-catalog/)  
 
 ## ✨ Features
 
